@@ -105,7 +105,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url(https://github.com/thongbuind/FE_WEB_TEST/blob/main/assets/img/slider/slider_1.jpeg) top center / cover no-repeat;
+    background: url(https://raw.githubusercontent.com/thongbuind/FE_WEB_TEST/main/assets/img/slider/slider_1.jpeg) top center / cover no-repeat;
     position: relative;
 }
 
